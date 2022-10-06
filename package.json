@@ -2,15 +2,14 @@
   "name": "test-app-phonenumber-library",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@rosaregalado/phone-number-library": "^1.0.0",
-    "@rosaregalado/phone-number-libraryy": "^1.0.0",
+    "@rosaregalado/phone-number-library": "^1.0.1",
     "jest": "^29.1.2"
   }
 }
